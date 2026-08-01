@@ -115,7 +115,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, #080809cc, #410504cc), url(../../images/InkPaint2.jpg);
+		background-image: linear-gradient(to top, #080809cc, #410504cc), url(../../images/InkPaint2.webp);
 		background-size: auto,
  cover;
 		background-attachment: fixed,
